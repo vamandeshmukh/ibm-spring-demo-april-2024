@@ -6,7 +6,7 @@ public class JavaConfigDemo {
 		
 		// write necessary code here and in Employee class 
 		
-		// read page 30 onwards - 
+		// see page 30 onwards - 
 		// https://docs.google.com/document/d/1gjd0EmZKpZsIGuU7zTre9IZaLqHeqwjyQtUixNDbIVU/edit 
 
 		
