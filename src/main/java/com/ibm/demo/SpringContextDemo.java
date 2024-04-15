@@ -15,6 +15,7 @@ public class SpringContextDemo {
 //		Employee emp = new Employee();
 //		Employee emp = context.getBean(Employee.class);
 		Employee emp = context.getBean("employee", Employee.class);
+		 
 
 		System.out.println(emp.hashCode());
 
