@@ -4,7 +4,8 @@ public class JavaConfigDemo {
 	
 	public static void main(String[] args) {
 		
-		// code 
+		// write necessary code here and in Employee class 
+
 		
 	}
 
