@@ -1,10 +1,8 @@
 package com.ibm.demo.single;
 
+// lazy loading 
 public class Prime {
 
-	// eager loading 
-//	private static Prime prime = new Prime();
-	// lazy loading 
 	private static Prime prime;
 
 	private Prime() {
@@ -17,6 +15,25 @@ public class Prime {
 		return prime;
 	}
 
-	// other busoness methods
+	// other business methods
 
 }
+
+//package com.ibm.demo.single;
+//
+//// eager loading 
+//public class Prime {
+//
+//	private static Prime prime = new Prime();
+//
+//	private Prime() {
+//		super();
+//	}
+//
+//	public static Prime getInstance() {
+//		return prime;
+//	}
+//
+//	// other business methods
+//
+//}
